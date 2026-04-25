@@ -1,0 +1,9 @@
+REQUIREMENTS.TXT
+
+streamlit
+pandas
+numpy
+scikit-learn
+xgboost
+imbalanced-learn
+joblib
